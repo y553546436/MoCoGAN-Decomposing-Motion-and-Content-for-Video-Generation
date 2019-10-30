@@ -1,1 +1,1 @@
-# MoCoGAN-Decomposing-Motion-and-Content-for-Video-Generation
+# Generative Latent Optimization
